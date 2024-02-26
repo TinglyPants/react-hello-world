@@ -1,0 +1,12 @@
+Do not rely on viewport dimensions, becuase this makes things scale weirdly
+make sure to implement md: and sm: 
+perhaps use [rem] for scaling
+
+make sure every div scales well
+
+perhaps remove the sidebar? not really needed, plus allows bigger space for posts
+
+i like the menu div thing
+
+use grid more
+
